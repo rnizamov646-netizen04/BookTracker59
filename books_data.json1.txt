@@ -1,0 +1,9 @@
+{
+  "password_history": [],
+  "settings": {
+    "default_length": 12,
+    "use_digits": true,
+    "use_letters": true,
+    "use_special": true
+  }
+}
